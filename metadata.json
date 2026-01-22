@@ -1,0 +1,8 @@
+{
+  "name": "Muskan IT - Premium E-commerce & Marketing Portfolio",
+  "description": "A high-end, mobile-first landing page for Muskan IT featuring a full e-commerce checkout flow, digital marketing portfolio, and direct WhatsApp ordering system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
